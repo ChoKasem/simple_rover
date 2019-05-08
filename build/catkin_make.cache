@@ -1,0 +1,2 @@
+simple_rover
+-DCATKIN_DEVEL_PREFIX=/home/jok/rover/devel -DCMAKE_INSTALL_PREFIX=/home/jok/rover/install -G Unix Makefiles

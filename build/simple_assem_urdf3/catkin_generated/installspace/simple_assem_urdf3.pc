@@ -1,0 +1,8 @@
+prefix=/home/jok/rover/install
+
+Name: simple_assem_urdf3
+Description: Description of simple_assem_urdf3
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/jok/rover/install/lib 
+Requires: 

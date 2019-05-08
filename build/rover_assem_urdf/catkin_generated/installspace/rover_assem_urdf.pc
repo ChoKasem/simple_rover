@@ -1,0 +1,8 @@
+prefix=/home/jok/rover/install
+
+Name: rover_assem_urdf
+Description: Description of rover_assem_urdf
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/jok/rover/install/lib 
+Requires: 

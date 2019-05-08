@@ -1,0 +1,8 @@
+prefix=/home/jok/rover/devel
+
+Name: simple_rover3
+Description: Description of simple_rover3
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/jok/rover/devel/lib 
+Requires: 
